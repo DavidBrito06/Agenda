@@ -30,7 +30,7 @@ Este projeto foi criado com os seguintes objetivos:
 1. Tenha o **Python 3** instalado na sua máquina.
 2. Baixe o arquivo `.py` do projeto ou clone o repositório:
    ```bash
-   git clone 
+   https://github.com/DavidBrito06/Agenda.git
    ```
 3. Acesse a pasta e execute o script:
    ```bash
